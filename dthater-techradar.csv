@@ -1,50 +1,50 @@
-name,ring,quadrant,isNew,description
-JDK 8,adopt,languages & frameworks,false,
-JDK 17,adopt,languages & frameworks,false,
-libgdx,adopt,languages & frameworks,false,
-JavaScript,adopt,languages & frameworks,false,
-HTML,adopt,languages & frameworks,false,
-CSS,adopt,languages & frameworks,false,
-Hibernate,adopt,languages & frameworks,false,
-Bean Validation,adopt,languages & frameworks,false,
-Express.js,adopt,languages & frameworks,false,
-Markdown,adopt,languages & frameworks,false,
-Xcode,adopt,platforms,false,
-Linux,adopt,platforms,false,
-Windows 10,adopt,platforms,false,
-MacOS,adopt,platforms,false,
-FitBit,adopt,platforms,false,
-Clean Code,adopt,techniques,false,
-S.M.A.R.T.,adopt,techniques,false,
-OKR,adopt,techniques,false,
-Scrum,adopt,techniques,false,
-RESTfull,adopt,techniques,false,
-Node.js,adopt,tools,false,
-IntelliJ,adopt,tools,false,
-Oracle DB,adopt,tools,false,
-SQLite 3,adopt,tools,false,
-Chrome,adopt,tools,false,
-Obsidian,adopt,tools,false,
-Geany,adopt,tools,false,
-MS Office,adopt,tools,false,
-LibreOffice,adopt,tools,false,
-npm,adopt,tools,false,
-Jira,adopt,tools,false,
-Confluence,adopt,tools,false,
-Jenkins,adopt,tools,false,
-11ty,adopt,tools,false,
-Flutter,trial,languages & frameworks,false,
-OpenAPI,trial,languages & frameworks,false,
-Kubernetes,assess,platforms,false,
-Kanban,trial,techniques,false,
-Lean,assess,techniques,false,
-Postgres,trial,tools,false,
-JDK 18,trial,languages & frameworks,false,
-Spring,adopt,languages & frameworks,false,
-Spring Boot,trial,languages & frameworks,false,
-React,trial,languages & frameworks,false,
-Rust,hold,languages & frameworks,false,
-ColdFusion,hold,languages & frameworks,false,
-Delphi 2009,hold,languages & frameworks,false,
-Windows 11,hold,platforms,false,
-Eclipse,hold,tools,false,
+name,ring,quadrant,isNew,description,ring
+JDK 8,pro,languages & frameworks,false,,adopt
+JDK 17,pro,languages & frameworks,false,,adopt
+libgdx,pro,languages & frameworks,false,,adopt
+JavaScript,pro,languages & frameworks,false,,adopt
+HTML,pro,languages & frameworks,false,,adopt
+CSS,pro,languages & frameworks,false,,adopt
+Hibernate,pro,languages & frameworks,false,,adopt
+Bean Validation,pro,languages & frameworks,false,,adopt
+Express.js,pro,languages & frameworks,false,,adopt
+Markdown,pro,languages & frameworks,false,,adopt
+Xcode,pro,platforms,false,,adopt
+Linux,pro,platforms,false,,adopt
+Windows 10,pro,platforms,false,,adopt
+MacOS,pro,platforms,false,,adopt
+FitBit,pro,platforms,false,,adopt
+Clean Code,pro,techniques,false,,adopt
+S.M.A.R.T.,pro,techniques,false,,adopt
+OKR,pro,techniques,false,,adopt
+Scrum,pro,techniques,false,,adopt
+RESTfull,pro,techniques,false,,adopt
+Node.js,pro,tools,false,,adopt
+IntelliJ,pro,tools,false,,adopt
+Oracle DB,pro,tools,false,,adopt
+SQLite 3,pro,tools,false,,adopt
+Chrome,pro,tools,false,,adopt
+Obsidian,pro,tools,false,,adopt
+Geany,pro,tools,false,,adopt
+MS Office,pro,tools,false,,adopt
+LibreOffice,pro,tools,false,,adopt
+npm,pro,tools,false,,adopt
+Jira,pro,tools,false,,adopt
+Confluence,pro,tools,false,,adopt
+Jenkins,pro,tools,false,,adopt
+11ty,pro,tools,false,,adopt
+Flutter,beginner,languages & frameworks,false,,trial
+OpenAPI,advanced,languages & frameworks,false,,trial
+Kubernetes,beginner,platforms,false,,assess
+Kanban,advanced,techniques,false,,trial
+Lean,beginner,techniques,false,,assess
+Postgres,beginner,tools,false,,trial
+JDK 18,beginner,languages & frameworks,false,,trial
+Spring,beginner,languages & frameworks,false,,adopt
+Spring Boot,beginner,languages & frameworks,false,,trial
+React,beginner,languages & frameworks,false,,trial
+Rust,ignore,languages & frameworks,false,,hold
+ColdFusion,ignore,languages & frameworks,false,,hold
+Delphi 2009,ignore,languages & frameworks,false,,hold
+Windows 11,ignore,platforms,false,,hold
+Eclipse,ignore,tools,false,,hold
