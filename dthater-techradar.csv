@@ -1,58 +1,58 @@
-name,ring,quadrant,isNew,description,ring2
-JavaScript,pro,languages & frameworks,false,,adopt
-JDK 8,advanced,languages & frameworks,false,,adopt
-Flutter,beginner,languages & frameworks,false,,trial
-ColdFusion,ignore,languages & frameworks,false,,hold
-JDK 17,advanced,languages & frameworks,false,,adopt
-libgdx,advanced,languages & frameworks,false,,adopt
-HTML,pro,languages & frameworks,false,,adopt
-CSS,pro,languages & frameworks,false,,adopt
-Express.js,pro,languages & frameworks,false,,adopt
-Markdown,pro,languages & frameworks,false,,adopt
-Objective-C,pro,languages & frameworks,false,,
-Xcode,pro,platforms,false,,adopt
-Linux,pro,platforms,false,,adopt
-Windows 10,pro,platforms,false,,adopt
-MacOS,pro,platforms,false,,adopt
-FitBit,pro,platforms,false,,adopt
-Clean Code,pro,techniques,false,,adopt
-S.M.A.R.T.,pro,techniques,false,,adopt
-OKR,pro,techniques,false,,adopt
-Scrum,pro,techniques,false,,adopt
-RESTfull,pro,techniques,false,,adopt
-Node.js,pro,tools,false,,adopt
-IntelliJ,pro,tools,false,,adopt
-Oracle DB,pro,tools,false,,adopt
-SQLite 3,pro,tools,false,,adopt
-Chrome,pro,tools,false,,adopt
-Obsidian,pro,tools,false,,adopt
-Geany,pro,tools,false,,adopt
-MS Office,advanced,tools,false,,adopt
-LibreOffice,pro,tools,false,,adopt
-npm,pro,tools,false,,adopt
-Jira,pro,tools,false,,adopt
-Confluence,pro,tools,false,,adopt
-Jenkins,pro,tools,false,,adopt
-11ty,pro,tools,false,,adopt
-Hibernate,advanced,languages & frameworks,false,,adopt
-Bean Validation,advanced,languages & frameworks,false,,adopt
-Bash,advanced,languages & frameworks,false,,
-OpenAPI,advanced,languages & frameworks,false,,trial
-Kanban,advanced,techniques,false,,trial
-Kubernetes,beginner,platforms,false,,assess
-Lean,beginner,techniques,false,,assess
-Postgres,beginner,tools,false,,trial
-JDK 18,beginner,languages & frameworks,false,,trial
-Spring,beginner,languages & frameworks,false,,adopt
-Spring Boot,beginner,languages & frameworks,false,,trial
-React,beginner,languages & frameworks,false,,trial
-Rust,ignore,languages & frameworks,false,,hold
-Delphi 2009,ignore,languages & frameworks,false,,hold
-Windows 11,ignore,platforms,false,,hold
-Eclipse,ignore,tools,false,,hold
-SQL,advanced,languages & frameworks,false,,
-Management,beginner,techniques,false,,
-Leadership,beginner,techniques,false,,
-Liberating Structures,advanced,techniques,false,,
-Facilitation,advanced,techniques,false,,
-Trainership,advanced,techniques,false,,
+name,ring,quadrant,isNew,description
+JavaScript,pro,languages & frameworks,false,
+JDK 8,advanced,languages & frameworks,false,
+Flutter,beginner,languages & frameworks,false,
+ColdFusion,ignore,languages & frameworks,false,
+JDK 17,advanced,languages & frameworks,false,
+libgdx,advanced,languages & frameworks,false,
+HTML,pro,languages & frameworks,false,
+CSS,pro,languages & frameworks,false,
+Express.js,pro,languages & frameworks,false,
+Markdown,pro,languages & frameworks,false,
+Objective-C,pro,languages & frameworks,false,
+Xcode,pro,platforms,false,
+Linux,pro,platforms,false,
+Windows 10,pro,platforms,false,
+MacOS,pro,platforms,false,
+FitBit,pro,platforms,false,
+Clean Code,pro,techniques,false,
+S.M.A.R.T.,pro,techniques,false,
+OKR,pro,techniques,false,
+Scrum,pro,techniques,false,
+RESTfull,pro,techniques,false,
+Node.js,pro,tools,false,
+IntelliJ,pro,tools,false,
+Oracle DB,pro,tools,false,
+SQLite 3,pro,tools,false,
+Chrome,pro,tools,false,
+Obsidian,pro,tools,false,
+Geany,pro,tools,false,
+MS Office,advanced,tools,false,
+LibreOffice,pro,tools,false,
+npm,pro,tools,false,
+Jira,pro,tools,false,
+Confluence,pro,tools,false,
+Jenkins,pro,tools,false,
+11ty,pro,tools,false,
+Hibernate,advanced,languages & frameworks,false,
+Bean Validation,advanced,languages & frameworks,false,
+Bash,advanced,languages & frameworks,false,
+OpenAPI,advanced,languages & frameworks,false,
+Kanban,advanced,techniques,false,
+Kubernetes,beginner,platforms,false,
+Lean,beginner,techniques,false,
+Postgres,beginner,tools,false,
+JDK 18,beginner,languages & frameworks,false,
+Spring,beginner,languages & frameworks,false,
+Spring Boot,beginner,languages & frameworks,false,
+React,beginner,languages & frameworks,false,
+Rust,ignore,languages & frameworks,false,
+Delphi 2009,ignore,languages & frameworks,false,
+Windows 11,ignore,platforms,false,
+Eclipse,ignore,tools,false,
+SQL,advanced,languages & frameworks,false,
+Management,beginner,techniques,false,
+Leadership,beginner,techniques,false,
+Liberating Structures,advanced,techniques,false,
+Facilitation,advanced,techniques,false,
+Trainership,advanced,techniques,false,
